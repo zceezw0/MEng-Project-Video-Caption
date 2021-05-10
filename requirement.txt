@@ -1,0 +1,8 @@
+torch==1.1
+torchvision==0.3.0
+tqdm
+keras==1.15.0
+tensorflow==2.4.1
+numpy
+pandas
+matplotlib
